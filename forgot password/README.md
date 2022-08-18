@@ -15,5 +15,5 @@ The page must be responsive across all devices.
 
 ### Form Design - fields we need
 
-name / company email address - <input type="text">
+name / company email address - `<input type="text">`
 
