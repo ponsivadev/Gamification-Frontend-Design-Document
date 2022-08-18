@@ -12,15 +12,15 @@ The page must be responsive across all devices.
 
 ### Form Design - fields we need
 
-company email address <input type=""email"">, 
+company email address -    `<input type="email">`, 
 
 designation (Filter Dropdown Menu - dropdown list with search),
 
-name <input type=""text"">,  
+name - `<input type="text">`,  
 
-password  <input type=""password""> and 
+password  `<input type="password">` and 
 
-conform password <input type=""password""> 
+confirm password `<input type="password">` 
 
 & 
 

@@ -12,9 +12,9 @@ The page must be responsive across all devices.
 
 ### Form Design - fields we need
 
-username / company email address - <input type="text">
+username / company email address - `<input type="text">`
 
-password - <input type="password">
+password - `<input type="password">`
 
 & 
 
